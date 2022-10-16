@@ -1,2 +1,2 @@
 # SpartansFrankfurt
-A website for Spartans Cricket Club
+A website for Spartans Cricket Club commit
